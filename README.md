@@ -47,4 +47,6 @@ We designed SQL BI views, connected them to **Power BI**, and developed an inter
        SUM('adventureworks2019 bi_vtopcustomers'[TotalDue]),
    
        SUM('adventureworks2019 bi_vtopcustomers'[Orders])
-   )
+   )<img width="1920" height="961" alt="Screenshot 2025-09-10 150542" src="https://github.com/user-attachments/assets/ee14892d-f3cd-4378-ba8d-fa7abf332221" />
+
+<img width="1910" height="928" alt="Screenshot 2025-09-10 200013" src="https://github.com/user-attachments/assets/6a6d9c3f-c38c-486d-8b57-c1bf32e73603" />
