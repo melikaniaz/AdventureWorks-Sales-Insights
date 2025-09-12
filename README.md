@@ -1,7 +1,7 @@
 # 📊 AdventureWorks Sales & Customer Insights
 
 This repository contains a complete **Business Intelligence pipeline** built on the **AdventureWorks** sample database.  
-We designed SQL BI views, connected them to **Power BI**, and developed an interactive dashboard with KPIs, trends, geographical insights, product analysis, and customer segmentation.
+I designed SQL BI views, connected them to **Power BI**, and developed an interactive dashboard with KPIs, trends, geographical insights, product analysis, and customer segmentation.
 
 ---
 
